@@ -3,3 +3,7 @@
 __pycache__/
 *-info/
 .ipynb_checkpoints
+*logs/
+Student-Performance-Azure*/
+Student-Performance-Azure-deployment-main.zip
+artifact/
