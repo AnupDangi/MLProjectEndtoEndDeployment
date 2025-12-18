@@ -6,5 +6,3 @@ __pycache__/
 *logs/
 Student-Performance-Azure*/
 Student-Performance-Azure-deployment-main.zip
-artifact/
-catboost*/
