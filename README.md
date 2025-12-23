@@ -36,7 +36,7 @@ This project is an end-to-end Machine Learning application that predicts student
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AnupDangi/MLProjectEndtoEndDeployment.git
    cd MLProjectEndtoEndDeployment
    ```
 
